@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PawlooCode
-- 👀 I’m interested in <html> and python
+- 👀 I’m interested in html and python
 - 🌱 I’m currently learning html 5
 
 
